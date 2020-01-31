@@ -5,3 +5,6 @@
 2. Unzip the 'input' folder.
 3. Download the models from [Here](https://drive.google.com/open?id=1AnBHtvjHI8w0WAVwH1heMrohChlVp5GN)
 4. Place the models in 'input/train_images'.
+
+### References :-
+..* https://medium.com/@juliawu/fast-ai-lesson-3-b462367fe1ec
