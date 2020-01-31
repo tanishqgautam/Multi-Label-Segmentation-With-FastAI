@@ -7,4 +7,8 @@
 4. Place the models in 'input/train_images'.
 
 ### References :-
-..* https://medium.com/@juliawu/fast-ai-lesson-3-b462367fe1ec
+⋅⋅* https://medium.com/@juliawu/fast-ai-lesson-3-b462367fe1ec
+⋅⋅* https://towardsdatascience.com/fastai-image-segmentation-eacad8543f6f
+⋅⋅* https://forums.fast.ai/t/unet-how-to-get-4-channel-output/54674/4
+⋅⋅* https://matplotlib.org/3.1.1/gallery/text_labels_and_annotations/custom_legends.html
+⋅⋅* https://forums.fast.ai/t/how-to-load-multiple-classes-of-rle-strings-from-csv-severstal-steel-competition/51445
