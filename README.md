@@ -1,4 +1,4 @@
-### Cloud-Segmentation-using-U-NET
+### Multi Label Segmentation using U-NET on Clouds
 
 ### Steps to execute :- 
 1. Download the input dataset stored [Here](https://drive.google.com/open?id=1Wq7rocB3ADgbUrgXXKidbkJgow9_wHSP)
